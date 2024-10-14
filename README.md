@@ -52,8 +52,7 @@ Install dependencies
 Run the Statistical Model
 
 ```bash
-  python dict_Excel.py<img width="934" alt="Screenshot 2024-10-13 202145" src="https://github.com/user-attachments/assets/5a4e3423-e714-4352-a8bc-edcb41f0bc13">
-
+  python dict_Excel.py
 ```
 
 Start the server
